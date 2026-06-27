@@ -1,0 +1,22 @@
+[
+  {
+    "city_id": "ahmedabad",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "center_lat": 23.0225,
+    "center_lng": 72.5714,
+    "gee_project": "urbancool-500705",
+    "bbox": [72.45, 22.95, 72.70, 23.12]
+  },
+  {
+    "city_id": "surat",
+    "name": "Surat",
+    "state": "Gujarat",
+    "country": "India",
+    "center_lat": 21.1702,
+    "center_lng": 72.8311,
+    "gee_project": "urbancool-500705",
+    "bbox": [72.78, 21.13, 72.89, 21.23]
+  }
+]

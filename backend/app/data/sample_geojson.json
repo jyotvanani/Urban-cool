@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "ahm_zone_01",
+        "zone_name": "Maninagar",
+        "city": "ahmedabad",
+        "heat_risk_score": 89,
+        "hotspot_category": "Severe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.6017, 22.9967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "ahm_zone_03",
+        "zone_name": "Naroda",
+        "city": "ahmedabad",
+        "heat_risk_score": 94,
+        "hotspot_category": "Severe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.6628, 23.0809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "sur_zone_03",
+        "zone_name": "Udhna",
+        "city": "surat",
+        "heat_risk_score": 92,
+        "hotspot_category": "Severe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8400, 21.1700]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "sur_zone_05",
+        "zone_name": "Katargam",
+        "city": "surat",
+        "heat_risk_score": 24,
+        "hotspot_category": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8300, 21.2300]
+      }
+    }
+  ]
+}

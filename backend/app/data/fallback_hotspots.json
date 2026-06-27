@@ -1,0 +1,62 @@
+[
+  {
+    "zone_id": "demo_zone_01",
+    "zone_name": "Demo City Center",
+    "city": "Demo",
+    "latitude": 23.0,
+    "longitude": 72.5,
+    "lst_temperature": 42.0,
+    "ndvi": 0.18,
+    "ndbi": 0.7,
+    "ndwi": 0.09,
+    "built_up_density": 0.8,
+    "green_cover_percentage": 12,
+    "water_body_distance_km": 2.5,
+    "air_temperature": 38.5,
+    "humidity": 40,
+    "wind_speed": 7.0,
+    "heat_risk_score": 82,
+    "hotspot_category": "Severe",
+    "main_drivers": ["Low vegetation", "High built-up density", "Low water presence"],
+    "recommended_action": "Increase tree cover, apply cool roofs, and improve blue-green infrastructure",
+    "expected_temp_reduction": 2.5,
+    "priority_level": "High",
+    "feature_contribution": {
+      "Vegetation Loss": 28,
+      "Built-up Density": 26,
+      "Surface Temperature": 24,
+      "Water Distance": 12,
+      "Weather Impact": 10
+    }
+  },
+  {
+    "zone_id": "demo_zone_02",
+    "zone_name": "Demo Suburb",
+    "city": "Demo",
+    "latitude": 23.05,
+    "longitude": 72.45,
+    "lst_temperature": 36.0,
+    "ndvi": 0.44,
+    "ndbi": 0.42,
+    "ndwi": 0.27,
+    "built_up_density": 0.5,
+    "green_cover_percentage": 36,
+    "water_body_distance_km": 1.2,
+    "air_temperature": 34.5,
+    "humidity": 50,
+    "wind_speed": 10.0,
+    "heat_risk_score": 30,
+    "hotspot_category": "Low",
+    "main_drivers": ["Healthy vegetation cover"],
+    "recommended_action": "Maintain green cover and monitor heat conditions",
+    "expected_temp_reduction": 0.9,
+    "priority_level": "Low",
+    "feature_contribution": {
+      "Vegetation Loss": 15,
+      "Built-up Density": 20,
+      "Surface Temperature": 18,
+      "Water Distance": 10,
+      "Weather Impact": 37
+    }
+  }
+]
